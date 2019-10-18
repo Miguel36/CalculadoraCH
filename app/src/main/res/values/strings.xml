@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_main">Operaciones Matemáticas</string>
+    <string name="edit_text1">Ingrese el primer valor</string>
+    <string name="edit_text2">Ingrese el segundo valor</string>
+    <string name="rest">-</string>
+    <string name="sum">+</string>
+    <string name="mult">x</string>
+    <string name="div">/</string>
+    <string name="lbl_resultado">Resultado:</string>
+</resources>
